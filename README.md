@@ -1,0 +1,5 @@
+# Goofy-lang
+
+```rust
+todo!()
+```
