@@ -1,4 +1,4 @@
-# Goofy-lang
+# Dreamberd Lexer
 
 ```rust
 todo!()
